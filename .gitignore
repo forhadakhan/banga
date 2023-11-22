@@ -2,13 +2,22 @@
 __pycache__/
 *.pyc
 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+
+# Egg-info
+*.egg-info/
+
 # Ignore virtual environment
 venv/
 
 # Ignore build artifacts
 dist/
 build/
-*.egg-info/
 
 # Ignore node_modules directory for JavaScript
 js/node_modules/
