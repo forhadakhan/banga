@@ -1,0 +1,39 @@
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore build artifacts
+dist/
+build/
+*.egg-info/
+
+# Ignore node_modules directory for JavaScript
+js/node_modules/
+
+# Ignore artifacts from testing
+*.pyo
+*.pyc
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# Ignore environment-specific files
+.env
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore IDE and editor files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
