@@ -1,0 +1,25 @@
+{
+    "name": "banga",
+    "version": "0.1.0",
+    "main": "index.js",
+    "scripts": {
+        "test": ""
+    },
+    "keywords": [
+        "banga",
+        "bongo",
+        "bengali",
+        "bangla",
+        "bangladesh",
+        "bd",
+        "tools",
+        "utility"
+    ],
+    "author": "Forhad Khan (forhadakhan)",
+    "description": "Unified Bengali Tools Package",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/forhadakhan/banga.git"
+    },
+    "license": "MIT"
+}
